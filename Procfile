@@ -1,0 +1,1 @@
+worker: python telegram_forex_bot.py
